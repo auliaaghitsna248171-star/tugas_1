@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hutan Hujan Tropis dan Perannya</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #1f4f1f;
+            max-width: 800px;
+            margin: 40px auto;
+            text-align: justify;
+        }
+
+        .garis-hijau {
+            height: 5px;
+            background: #1f4f1f;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #1f4f1f;
+            margin-bottom: 5px;
+        }
+
+        h2 {
+            color: #1f4f1f;
+            border-bottom: 2px solid #1f4f1f33;
+        }
+
+        h3 {
+            text-align: center;
+            color: #1f4f1f;
+            font-weight: normal;
+            font-size: 14px;
+            margin-top: 0; 
+        }
+        .foto {
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .foto img {
+            width: 100%;
+            height: 300px;
+            border-radius: 15px;
+            object-fit: cover;
+        }
+
+        .caption {
+            text-align: center;
+            font-size: 13px;
+            color: #1f4f1f;
+        }
+    </style>
+</head>
+<body>
+    <div class="garis-hijau"></div>
+    <h1>Hutan Hujan Tropis dan Perannya</h1>
+<h3>Sumber keanekaragaman dan penopang iklim global--Latihan HTML & CSS</h3>
+
+    <h2>Fungsi Ekologis</h2>
+    <p>
+        Hutan hujan tropis menampung sebagian besar keanekaragaman hayati dunia, menyediakan habitat bagi ribuan
+        spesies tanaman, hewan, dan mikroorganisme. Lapisan kanopi menciptakan mikroiklim yang khas dan mendukung
+        interaksi ekologis kompleks.
+    </p>
+    <p>
+        Produksi primer tinggi di hutan hujan menghasilkan biomassa besar yang menjadi dasar rantai makanan. Hutan
+        ini juga memainkan peran penting dalam daur air dan penyimpanan karbon global.
+    </p>
+
+    <h2>Ancaman</h2>
+    <p>
+        Ancaman utama terhadap hutan hujan meliputi deforestasi untuk pertanian, pertambangan, dan perluasan
+        pemukiman. Praktik tersebut menyebabkan kerusakan habitat dan hilangnya keanekaragaman hayati.
+    </p>
+    <p>
+        Upaya konservasi dilakukan dengan perlindungan kawasan hutan, pengelolaan berkelanjutan, serta pemberdayaan
+        masyarakat sekitar hutan.
+    </p>
+
+    <h2>Strategi Konservasi</h2>
+    <p>
+        Peran masyarakat adat dan hukum lingkungan sangat penting untuk menjaga kelestarian hutan. Keterlibatan lokal
+        membantu pengelolaan yang lebih baik dan berkelanjutan.
+    </p>
+    <p>
+        Penelitian ekosistem hutan juga membuka peluang penemuan obat-obatan baru serta membantu mengurangi dampak
+        perubahan iklim.
+    </p>
+
+    <h2>Topik Tambahan</h2>
+    <p>
+        Restorasi lahan rusak, pembuatan koridor satwa, dan kebijakan perdagangan yang ramah lingkungan merupakan
+        bagian dari strategi jangka panjang menjaga hutan hujan tropis.
+    </p>
+    <p>
+        Hutan hujan adalah aset penting bagi kehidupan manusia dan makhluk lainnya, sehingga perlu dijaga bersama.
+    </p>
+
+    <div class="foto">
+        <img src="htn.jpeg" alt="Hutan Hujan Tropis">
+        <p class="caption">Gambar file ini sebagai latihan tambahkan link, ubah warna, dan edit struktur sesuai tugas kelas.</p>
+    </div>
+</body>
+</html>
